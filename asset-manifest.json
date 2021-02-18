@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf27d276.chunk.css",
+    "main.js": "/static/js/main.d718a0a8.chunk.js",
+    "main.js.map": "/static/js/main.d718a0a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33d494b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33d494b6.js.map",
+    "static/js/2.bd0dfa25.chunk.js": "/static/js/2.bd0dfa25.chunk.js",
+    "static/js/2.bd0dfa25.chunk.js.map": "/static/js/2.bd0dfa25.chunk.js.map",
+    "static/js/3.d530d407.chunk.js": "/static/js/3.d530d407.chunk.js",
+    "static/js/3.d530d407.chunk.js.map": "/static/js/3.d530d407.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cf27d276.chunk.css.map": "/static/css/main.cf27d276.chunk.css.map",
+    "static/js/2.bd0dfa25.chunk.js.LICENSE.txt": "/static/js/2.bd0dfa25.chunk.js.LICENSE.txt",
+    "static/media/free_claim.46464409.svg": "/static/media/free_claim.46464409.svg",
+    "static/media/game_phone.8f5ad08a.svg": "/static/media/game_phone.8f5ad08a.svg",
+    "static/media/App.css": "/static/media/header_bg.e42d6f0f.svg",
+    "static/media/hero_image.72be4abd.png": "/static/media/hero_image.72be4abd.png",
+    "static/media/magic_trades.bc75d3cd.svg": "/static/media/magic_trades.bc75d3cd.svg",
+    "static/media/price_movement.0777d2db.svg": "/static/media/price_movement.0777d2db.svg",
+    "static/media/stock_market.8e3bb36b.svg": "/static/media/stock_market.8e3bb36b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33d494b6.js",
+    "static/js/2.bd0dfa25.chunk.js",
+    "static/css/main.cf27d276.chunk.css",
+    "static/js/main.d718a0a8.chunk.js"
+  ]
+}
