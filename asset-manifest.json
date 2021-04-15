@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.a1d744dd.chunk.css",
-    "main.js": "./static/js/main.d718a0a8.chunk.js",
-    "main.js.map": "./static/js/main.d718a0a8.chunk.js.map",
+    "main.css": "./static/css/main.7be1553d.chunk.css",
+    "main.js": "./static/js/main.74dffa2c.chunk.js",
+    "main.js.map": "./static/js/main.74dffa2c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.52fedd79.js",
     "runtime-main.js.map": "./static/js/runtime-main.52fedd79.js.map",
     "static/js/2.bd0dfa25.chunk.js": "./static/js/2.bd0dfa25.chunk.js",
@@ -10,20 +10,25 @@
     "static/js/3.d530d407.chunk.js": "./static/js/3.d530d407.chunk.js",
     "static/js/3.d530d407.chunk.js.map": "./static/js/3.d530d407.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.a1d744dd.chunk.css.map": "./static/css/main.a1d744dd.chunk.css.map",
+    "static/css/main.7be1553d.chunk.css.map": "./static/css/main.7be1553d.chunk.css.map",
     "static/js/2.bd0dfa25.chunk.js.LICENSE.txt": "./static/js/2.bd0dfa25.chunk.js.LICENSE.txt",
+    "static/media/e1.07c4f368.png": "./static/media/e1.07c4f368.png",
+    "static/media/e2.2de7544a.png": "./static/media/e2.2de7544a.png",
+    "static/media/e3.b666d7ef.png": "./static/media/e3.b666d7ef.png",
+    "static/media/e5.b96e24bc.png": "./static/media/e5.b96e24bc.png",
+    "static/media/e6.b66ddc71.png": "./static/media/e6.b66ddc71.png",
+    "static/media/e7.c12e4063.png": "./static/media/e7.c12e4063.png",
     "static/media/free_claim.46464409.svg": "./static/media/free_claim.46464409.svg",
-    "static/media/game_phone.8f5ad08a.svg": "./static/media/game_phone.8f5ad08a.svg",
-    "static/media/App.css": "./static/media/header_bg.e42d6f0f.svg",
-    "static/media/hero_image.72be4abd.png": "./static/media/hero_image.72be4abd.png",
+    "static/media/hand.a22608f9.png": "./static/media/hand.a22608f9.png",
     "static/media/magic_trades.bc75d3cd.svg": "./static/media/magic_trades.bc75d3cd.svg",
     "static/media/price_movement.0777d2db.svg": "./static/media/price_movement.0777d2db.svg",
+    "static/media/App.css": "./static/media/stadium.e0f0462e.png",
     "static/media/stock_market.8e3bb36b.svg": "./static/media/stock_market.8e3bb36b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.52fedd79.js",
     "static/js/2.bd0dfa25.chunk.js",
-    "static/css/main.a1d744dd.chunk.css",
-    "static/js/main.d718a0a8.chunk.js"
+    "static/css/main.7be1553d.chunk.css",
+    "static/js/main.74dffa2c.chunk.js"
   ]
 }
