@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.3be29067.chunk.css",
-    "main.js": "./static/js/main.5fca2d67.chunk.js",
-    "main.js.map": "./static/js/main.5fca2d67.chunk.js.map",
+    "main.css": "./static/css/main.87601f85.chunk.css",
+    "main.js": "./static/js/main.7dd3cf60.chunk.js",
+    "main.js.map": "./static/js/main.7dd3cf60.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.18e6302a.js",
     "runtime-main.js.map": "./static/js/runtime-main.18e6302a.js.map",
     "static/js/2.20186836.chunk.js": "./static/js/2.20186836.chunk.js",
@@ -10,21 +10,19 @@
     "static/js/3.6f30ea22.chunk.js": "./static/js/3.6f30ea22.chunk.js",
     "static/js/3.6f30ea22.chunk.js.map": "./static/js/3.6f30ea22.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.3be29067.chunk.css.map": "./static/css/main.3be29067.chunk.css.map",
+    "static/css/main.87601f85.chunk.css.map": "./static/css/main.87601f85.chunk.css.map",
     "static/js/2.20186836.chunk.js.LICENSE.txt": "./static/js/2.20186836.chunk.js.LICENSE.txt",
-    "static/media/e1.07c4f368.png": "./static/media/e1.07c4f368.png",
-    "static/media/e2.2de7544a.png": "./static/media/e2.2de7544a.png",
-    "static/media/e3.b666d7ef.png": "./static/media/e3.b666d7ef.png",
-    "static/media/e5.b96e24bc.png": "./static/media/e5.b96e24bc.png",
-    "static/media/e6.b66ddc71.png": "./static/media/e6.b66ddc71.png",
-    "static/media/e7.c12e4063.png": "./static/media/e7.c12e4063.png",
+    "static/media/create_portfolio.2de7544a.png": "./static/media/create_portfolio.2de7544a.png",
     "static/media/fairplay.e989d0b9.pdf": "./static/media/fairplay.e989d0b9.pdf",
     "static/media/faq.87c17c48.pdf": "./static/media/faq.87c17c48.pdf",
-    "static/media/free_claim.46464409.svg": "./static/media/free_claim.46464409.svg",
     "static/media/hand.a22608f9.png": "./static/media/hand.a22608f9.png",
+    "static/media/join_contest.b96e24bc.png": "./static/media/join_contest.b96e24bc.png",
+    "static/media/leaderboard.c12e4063.png": "./static/media/leaderboard.c12e4063.png",
     "static/media/magic_trades.a9fcbbd1.jpg": "./static/media/magic_trades.a9fcbbd1.jpg",
+    "static/media/magic_trades.b66ddc71.png": "./static/media/magic_trades.b66ddc71.png",
     "static/media/price_movement.4fde6b1d.jpg": "./static/media/price_movement.4fde6b1d.jpg",
     "static/media/privacypolicy.287b2d50.pdf": "./static/media/privacypolicy.287b2d50.pdf",
+    "static/media/select_match.07c4f368.png": "./static/media/select_match.07c4f368.png",
     "static/media/App.css": "./static/media/stadium.e0f0462e.png",
     "static/media/stock_market.a763d6e7.jpg": "./static/media/stock_market.a763d6e7.jpg",
     "static/media/tnc.97c1919b.pdf": "./static/media/tnc.97c1919b.pdf"
@@ -32,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.18e6302a.js",
     "static/js/2.20186836.chunk.js",
-    "static/css/main.3be29067.chunk.css",
-    "static/js/main.5fca2d67.chunk.js"
+    "static/css/main.87601f85.chunk.css",
+    "static/js/main.7dd3cf60.chunk.js"
   ]
 }
