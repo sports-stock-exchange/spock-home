@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.e42d69cb.chunk.css",
-    "main.js": "./static/js/main.50fad5d1.chunk.js",
-    "main.js.map": "./static/js/main.50fad5d1.chunk.js.map",
+    "main.css": "./static/css/main.8aa941f1.chunk.css",
+    "main.js": "./static/js/main.7ee8a290.chunk.js",
+    "main.js.map": "./static/js/main.7ee8a290.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.18e6302a.js",
     "runtime-main.js.map": "./static/js/runtime-main.18e6302a.js.map",
     "static/js/2.20186836.chunk.js": "./static/js/2.20186836.chunk.js",
@@ -10,27 +10,23 @@
     "static/js/3.6f30ea22.chunk.js": "./static/js/3.6f30ea22.chunk.js",
     "static/js/3.6f30ea22.chunk.js.map": "./static/js/3.6f30ea22.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.e42d69cb.chunk.css.map": "./static/css/main.e42d69cb.chunk.css.map",
+    "static/css/main.8aa941f1.chunk.css.map": "./static/css/main.8aa941f1.chunk.css.map",
     "static/js/2.20186836.chunk.js.LICENSE.txt": "./static/js/2.20186836.chunk.js.LICENSE.txt",
     "static/media/create_portfolio.2de7544a.png": "./static/media/create_portfolio.2de7544a.png",
-    "static/media/fairplay.e989d0b9.pdf": "./static/media/fairplay.e989d0b9.pdf",
-    "static/media/faq.87c17c48.pdf": "./static/media/faq.87c17c48.pdf",
     "static/media/hand.a22608f9.png": "./static/media/hand.a22608f9.png",
     "static/media/join_contest.b96e24bc.png": "./static/media/join_contest.b96e24bc.png",
     "static/media/leaderboard.c12e4063.png": "./static/media/leaderboard.c12e4063.png",
     "static/media/magic_trades.a9fcbbd1.jpg": "./static/media/magic_trades.a9fcbbd1.jpg",
     "static/media/magic_trades.b66ddc71.png": "./static/media/magic_trades.b66ddc71.png",
     "static/media/price_movement.4fde6b1d.jpg": "./static/media/price_movement.4fde6b1d.jpg",
-    "static/media/privacypolicy.287b2d50.pdf": "./static/media/privacypolicy.287b2d50.pdf",
     "static/media/select_match.07c4f368.png": "./static/media/select_match.07c4f368.png",
     "static/media/App.css": "./static/media/stadium.e0f0462e.png",
-    "static/media/stock_market.a763d6e7.jpg": "./static/media/stock_market.a763d6e7.jpg",
-    "static/media/tnc.97c1919b.pdf": "./static/media/tnc.97c1919b.pdf"
+    "static/media/stock_market.a763d6e7.jpg": "./static/media/stock_market.a763d6e7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.18e6302a.js",
     "static/js/2.20186836.chunk.js",
-    "static/css/main.e42d69cb.chunk.css",
-    "static/js/main.50fad5d1.chunk.js"
+    "static/css/main.8aa941f1.chunk.css",
+    "static/js/main.7ee8a290.chunk.js"
   ]
 }
